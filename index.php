@@ -16,11 +16,11 @@
 	        <!-- <source src="video/32x32-audio.ogv" type="video/ogg"> -->
 	        <p class="vjs-no-js">
       		To view this video please enable JavaScript, and consider upgrading to a web browser that
-      			<a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+      			<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
     		</p>
       </video>
 	</div>
-	<script src="http://vjs.zencdn.net/5.9.2/video.js"></script>
+	<script src="https://vjs.zencdn.net/5.9.2/video.js"></script>
 </body>
 </html>
 
