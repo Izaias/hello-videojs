@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title></title>
-	<link href="http://vjs.zencdn.net/5.9.2/video-js.css" rel="stylesheet">
+	<link href="https://vjs.zencdn.net/5.9.2/video-js.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<!-- If you'd like to support IE8 -->
-  	<script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  	<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 </head>
 <body>
 	<div class="main">
