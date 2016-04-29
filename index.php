@@ -11,7 +11,8 @@
 	<div class="main">
 		<!-- <video id="my-video" class="video-js" loop="true" preload="auto" autoplay="" src="video/32x32-audio.mp4"> -->
 		<video id="my-video" class="video-js" loop="" controls="" preload="auto" autoplay="" width="640" height="264">
-		<video id="my-video" class="video-js" controls preload="auto" width="640" height="264">
+		<!-- <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"> -->
+		<!-- <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"> -->
 	        <source src="video/32x32-audio.mp4" type="video/mp4">
 	        <source src="video/32x32-audio.webm" type="video/webm">
 	        <!-- <source src="video/32x32-audio.ogv" type="video/ogg"> -->
